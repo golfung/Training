@@ -23,7 +23,7 @@ Here is the step
 - The feature sqft_above is positively correlated with price.
 - The best R-Square is 0.7 from Ridge regression model
 
-See more on here : https://github.com/golfung/testrepo/blob/main/House_Sales_in_King_Count_USA.ipynb
+See more on here : https://github.com/golfung/Training/blob/main/Coursera/Data_Analysis_with_Python/House_Sales_in_King_Count_USA.ipynb
 
 Here is my certificate : 
 
