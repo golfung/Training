@@ -62,5 +62,8 @@ Using the existing 3 datasets (Customer demographic, customer address and transa
 ![Slide4](https://user-images.githubusercontent.com/77894515/232273291-da16632c-f1c9-4fa9-b08e-afa8001be0d5.PNG)
 ![Slide5](https://user-images.githubusercontent.com/77894515/232273293-41da0dff-60ef-4f6d-b02c-4a3df7504e4b.PNG)
 
-### You can see analysis in `R` language  [Here]
+### You can see analysis in `R` language  [Here](https://github.com/golfung/Training/blob/main/KPMG_Data_Analytics_Virtual_Internship/Module_2_RAnalysis/KPMG_Analysis.R)
+### Or you can [Click Here](https://posit.cloud/content/5189441) if you have posit.cloud account.
+
+
 
