@@ -4,7 +4,7 @@
 - Forage is an open access platform designed to unlock exciting careers for students by connecting them with our company-endorsed Virtual Work Experience Programs.
 
 ## What is the KPMG Data Analytics Consulting Virtual Internship?
-- In this online program, you will get to complete similar work that our Graduates do at KPMG. You will learn what it is like working at one of the world’s best data analytics team, and build skills required to excel as a analytics consultant.
+- In this online program, you will get to complete similar work that our Graduates do at KPMG. You will learn what it is like working at one of the world’s best data analytics team, and build skills required to excel as a analytics consultant. [Click Here](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship) to see Virtual Internship.
 
 ## Task 1
 ### Data Quality Assessment
@@ -75,5 +75,6 @@ Using visualisations to present insights
 
 Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance).  Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.
 
+![Dashboard 1 (2)](https://user-images.githubusercontent.com/77894515/232277388-c8f7001c-cca5-43e3-a4e6-585861e534da.png)
 
 ### Please see dashboard in Tableau by [Click Here](https://public.tableau.com/views/SprocketCentral_16737863115910/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)  
