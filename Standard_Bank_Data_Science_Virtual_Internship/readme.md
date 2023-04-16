@@ -47,11 +47,21 @@ The Home Loans Department manager wants to know the following:
 ## Part 2
 
 Run the AutoML section and then fill in code for the traditional ML section for the the omitted cells.  
-- You can see all code by [Click Here]
+- You can see all code by [Click Here](https://github.com/golfung/Training/blob/main/Standard_Bank_Data_Science_Virtual_Internship/My_Task_2.ipynb)
 
 ## Part 3
 
 Make presentation and send your vdo clip to presentation
 
+![Slide1](https://user-images.githubusercontent.com/77894515/232287284-f5f0d218-0446-494b-b4e7-57e40cc4d933.PNG)
+![Slide2](https://user-images.githubusercontent.com/77894515/232287290-33b0cd62-5d80-4511-8a18-10efd97600dd.PNG)
+![Slide3](https://user-images.githubusercontent.com/77894515/232287291-3daafa8a-2431-4263-8daa-ddd2257b7070.PNG)
+![Slide4](https://user-images.githubusercontent.com/77894515/232287294-a54fdab5-d416-4ea3-b204-801ba7cac260.PNG)
+![Slide5](https://user-images.githubusercontent.com/77894515/232287295-dd53c66d-f1e6-4c8d-9ff2-33cbe6ccec7d.PNG)
+![Slide6](https://user-images.githubusercontent.com/77894515/232287297-9b5b3a53-99c1-46bc-9d46-86d3cfd60ac7.PNG)
+![Slide7](https://user-images.githubusercontent.com/77894515/232287298-95597b80-4fa3-4907-81dc-b1684fc1e7fb.PNG)
+![Slide8](https://user-images.githubusercontent.com/77894515/232287299-c6042fc0-6b54-4c67-ad53-8552b4860f4b.PNG)
+![Slide9](https://user-images.githubusercontent.com/77894515/232287300-fe5bbe58-e162-4932-81eb-c1cc9b213ba7.PNG)
+![Slide10](https://user-images.githubusercontent.com/77894515/232287301-975fc28c-6190-4d27-98aa-c3bb184a1dff.PNG)
 
 ### You can see my presentation VDO clip on [Here](https://drive.google.com/file/d/1p0rQYOm-V1tBmb_J0ciHxyyxnHTBy_Fl/view?usp=sharing)
