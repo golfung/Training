@@ -65,5 +65,15 @@ Using the existing 3 datasets (Customer demographic, customer address and transa
 ### You can see analysis in `R` language  [Here](https://github.com/golfung/Training/blob/main/KPMG_Data_Analytics_Virtual_Internship/Module_2_RAnalysis/KPMG_Analysis.R)
 ### Or you can [Click Here](https://posit.cloud/content/5189441) if you have posit.cloud account.
 
+## Task 3
+
+### Data Insights and Presentation
+
+Using visualisations to present insights
+
+**Here is your task**
+
+Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance).  Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.
 
 
+### Please see dashboard in Tableau by [Click Here](https://public.tableau.com/views/SprocketCentral_16737863115910/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)  
